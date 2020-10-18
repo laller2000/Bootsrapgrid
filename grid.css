@@ -1,0 +1,12 @@
+body{
+    color: red;
+}
+
+div{
+    height: 150px;
+    border: 1px solid;
+}
+.container{
+    border: none;
+}
+
